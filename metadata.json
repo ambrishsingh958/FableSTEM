@@ -1,0 +1,6 @@
+{
+  "name": "Story Teacher",
+  "description": "AI-powered educational storytelling and comprehension platform that adapts to any learner's age and language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
